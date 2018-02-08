@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "rlab",
+        "url": "https://rlab.be",
+        "contacto": "fulano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -62.57812500000001,
+          -36.03133177633187
+        ]
+      }
+    }
+  ]
+}
