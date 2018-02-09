@@ -299,14 +299,14 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -68.8434691,-32.8932508 ]
+       "coordinates":  [ -32.8976057, -68.8534641 ]
     },
     "properties": {
-    "name":"Nodo 39 FabLab\n",
+    "name":"LabFD FRM-UTN\n",
     "GOSH":"y",
     "status":"active",
     "type":"academic",
-    "url":"http://monitorabierto.wikidot.com/"
+    "url":"http://frm.utn.edu.ar/labfd"
     }
   },
   {
@@ -489,6 +489,34 @@
     "status":"active",
     "type":"business",
     "url":"https://yaeltex.com/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -33.435452502070085,-70.64620971679686 ]
+    },
+    "properties": {
+    "name":"Open Source Multifluorescent Imaging",
+    "GOSH":"y",
+    "status":"active",
+    "type":"academic",
+    "url":"https://osf.io/dy6p2/wiki/home/"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -32.8834795,-68.8671970 ]
+    },
+    "properties": {
+    "name":"Fisica interactiva - Pablo Cremades",
+    "GOSH":"y",
+    "status":"active",
+    "type":"academic",
+    "url":"http://fcen.uncuyo.edu.ar/fisica-interactiva"
     }
   }
 ]
