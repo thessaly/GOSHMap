@@ -299,7 +299,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -32.8976057, -68.8534641 ]
+       "coordinates":  [-68.8534641,-32.8976057]
     },
     "properties": {
     "name":"LabFD FRM-UTN\n",
