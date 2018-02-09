@@ -13,7 +13,7 @@ Las especificaciones del mapa están siendo discutidas en [este thread](https://
 
 La base de datos se encuentra en un archivo .csv dentro de este repositorio, llamado [openhwmap.csv](https://github.com/thessaly/OpenHWMap/blob/master/openhwmap.csv).
 
-Los usuarios pueden colaborar a traves de la generación de pull requests sobre este archivo, que luego son aprobadas y combinadas en el archivo principal.
+Las usuarias pueden colaborar a traves de la generación de pull requests sobre este archivo, que luego son aprobadas y combinadas en el archivo principal.
 
 Una vez combinadas la colaboración y la base de datos, se genera un [archivo .geojson](https://github.com/thessaly/OpenHWMap/blob/master/openhwmap.geojson) a partir de la base de datos actualizada. 
 
