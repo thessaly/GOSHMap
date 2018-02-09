@@ -48,7 +48,9 @@ latitude: en valores decimales
 longitud: en valores decimales 
 ```
 
-Si no conoces las coordenadas de tu proyecto, podes obtenerlas facilmente yendo a [GeoJSON.io](http://geojson.io), seleccionando la herramienta 'marcador' (A), creando un punto (B) y haciendo copy&paste de los datos (C) de la siguiente manera: ![coordinates](/screenshots/coordinates.png) 
+Si no conoces las coordenadas de tu proyecto, podes obtenerlas facilmente yendo a [GeoJSON.io](http://geojson.io), seleccionando la herramienta 'marcador' (A), creando un punto (B) y haciendo copy&paste de los datos (C) de la siguiente manera (**IMPORTANTE**: al editar el csv hay que agregar **primero** el valor de latitud y despues la longitud, cuidado porque geojson.io da los valores **al reves**): 
+
+![coordinates](/screenshots/coordinates.png) 
 
 ```
 geometry: por default, el valor siempre es 'Point'    
