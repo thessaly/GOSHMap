@@ -1,5 +1,7 @@
 ## Welcome to the Open Hardware collaborative Map!
 
+[The Map](openhwmap.geojson) 
+
 This initiative aims to build a collaborative database -and map- of open hardware projects around the world. It started with projects from Latin America as part of my [PhD](https://thessaly.github.io/phd/) and now we want to make it global as part of the [Global Open Source Hardware](https://openhardware.science) community. 
 
 We're discussing the specifics of the map in [this thread](https://forum.openhardware.science/t/map-cadastre-list-of-open-science-hardware-initiatives-in-chile-latam/835/3), in case you want to check the latest news. It's still 'work in progress'.
