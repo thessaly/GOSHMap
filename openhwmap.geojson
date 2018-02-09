@@ -495,7 +495,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -33.435452502070085,-70.64620971679686 ]
+       "coordinates":  [-70.64620971679686, -33.435452502070085]
     },
     "properties": {
     "name":"Open Source Multifluorescent Imaging",
@@ -509,7 +509,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -32.8834795,-68.8671970 ]
+       "coordinates":  [-68.8671970, -32.8834795]
     },
     "properties": {
     "name":"Fisica interactiva - Pablo Cremades",
