@@ -1,57 +1,57 @@
-latitude,longitude,geometry,name,GOSH,status,type,url
--31.4116703,-64.2315674,Point,"AlterMundi - Redes libres comunitarias
+longitude,latitude,geometry,name,GOSH,status,type,url
+-64.2315674,-31.4116703,Point,"AlterMundi - Redes libres comunitarias
 ",n,active,Non-academic,http://altermundi.net
--12.024514,-77.0565978,Point,Biomakers Lab,y,active,academic,http://biomakerslab.wixsite.com/home
--30.1110841,-51.2377954,Point,"Centro de Tecnologia Acadêmica, Instituto de Física - Universidad Federal de Río Grande del Sur",y,active,academic,http://cta.if.ufrgs.br
--34.637701,-58.4002165,Point,"cheLA - Centro Hipermediático Experimental Latinoamericano
+-77.0565978,-12.024514,Point,Biomakers Lab,y,active,academic,http://biomakerslab.wixsite.com/home
+-51.2377954,-30.1110841,Point,"Centro de Tecnologia Acadêmica, Instituto de Física - Universidad Federal de Río Grande del Sur",y,active,academic,http://cta.if.ufrgs.br
+-58.4002165,-34.637701,Point,"cheLA - Centro Hipermediático Experimental Latinoamericano
 ",n,active,Non-academic,http://chela.org.ar/
--34.5888647,-58.3973627,Point,"Computadora Industrial Abierta Argentina (CIAA)
+-58.3973627,-34.5888647,Point,"Computadora Industrial Abierta Argentina (CIAA)
 ",n,active,Non-academic,http://www.proyecto-ciaa.com.ar
--34.5980172,-58.3848625,Point,Diseño y construcción de objetos interactivos digitales. Experimentos con la plataforma Arduino - UNIPE,n,active,academic,http://sedici.unlp.edu.ar/handle/10915/50448
--34.6112972,-58.4271605,Point,"DTL - Emisoras radio libres
+-58.3848625,-34.5980172,Point,Diseño y construcción de objetos interactivos digitales. Experimentos con la plataforma Arduino - UNIPE,n,active,academic,http://sedici.unlp.edu.ar/handle/10915/50448
+-58.4271605,-34.6112972,Point,"DTL - Emisoras radio libres
 ",n,active,Non-academic,https://dtlcomunicacion.wordpress.com/
--30.0328388,-51.2364578,Point,EITCHA - Escola Itinerante de Tecnologia Cidadã Hacker,y,active,Non-academic,http://eitcha.org/
--34.6016294,-58.5281503,Point,EMISIÓN/DIFUSIÓN - Universidad Nacional de Tres de Febrero,n,,artist,http://untref.edu.ar/wp-content/uploads/2014/02/JavierPlano.pdf
--34.90348,-57.9376558,Point,"Enfocador remoto para telescopios - LINTI - CESPI (UNLP)
+-51.2364578,-30.0328388,Point,EITCHA - Escola Itinerante de Tecnologia Cidadã Hacker,y,active,Non-academic,http://eitcha.org/
+-58.5281503,-34.6016294,Point,EMISIÓN/DIFUSIÓN - Universidad Nacional de Tres de Febrero,n,,artist,http://untref.edu.ar/wp-content/uploads/2014/02/JavierPlano.pdf
+-57.9376558,-34.90348,Point,"Enfocador remoto para telescopios - LINTI - CESPI (UNLP)
 ",n,active,academic,http://sedici.unlp.edu.ar/bitstream/handle/10915/40918/Documento_completo.pdf?sequence=1
-6.2698761,-75.5659681,Point,Exploratorio,y,active,academic,www.parqueexplora.org/exploratorio
--33.4411279,-70.6407933,Point,"Fernan Federici Research Group - PUC
+-75.5659681,6.2698761,Point,Exploratorio,y,active,academic,www.parqueexplora.org/exploratorio
+-70.6407933,-33.4411279,Point,"Fernan Federici Research Group - PUC
 ",y,active,academic,https://federicilab.org/
--34.576125,-58.513441,Point,"FPGA libre - Unidad Técnica Instrumentación y Control, INTI
+-58.513441,-34.576125,Point,"FPGA libre - Unidad Técnica Instrumentación y Control, INTI
 ",n,,Non-academic,http://fpgalibre.sourceforge.net
--38.9401499,-68.0573579,Point,"Frankestito (Robótica educativa) - Facultad de Informática, Universidad Nacional Comahue
+-68.0573579,-38.9401499,Point,"Frankestito (Robótica educativa) - Facultad de Informática, Universidad Nacional Comahue
 ",n,,academic,http://se.fi.uncoma.edu.ar/robots/
-19.4326077,-99.133208,Point,Interspecifics,y,active,artist,http://interspecifics.cc
--34.5421289,-58.4444449,Point,"IQUIBICEN (CONICET) - Alejandro Nadra
+-99.133208,19.4326077,Point,Interspecifics,y,active,artist,http://interspecifics.cc
+-58.4444449,-34.5421289,Point,"IQUIBICEN (CONICET) - Alejandro Nadra
 ",y,active,academic,https://sites.google.com/site/alejandrodnadra/
--34.6110583,-58.4201892,Point,"Laboratorio de Juguete
+-58.4201892,-34.6110583,Point,"Laboratorio de Juguete
 ",n,active,Non-academic,https://laboratoriodejuguete.com
--33.1092515,-64.3013772,Point,"Laboratorios Teórico-Prácticos en Robótica Educativa - Universidad Nacional de Río Cuarto
+-64.3013772,-33.1092515,Point,"Laboratorios Teórico-Prácticos en Robótica Educativa - Universidad Nacional de Río Cuarto
 ",n,active,academic,http://sedici.unlp.edu.ar/bitstream/handle/10915/53812/Documento_completo.pdf-PDFA.pdf?sequence=1
--34.5711496,-58.4232966,Point,"Laura Olalde - Artista
+-58.4232966,-34.5711496,Point,"Laura Olalde - Artista
 ",y,active,artist,
--34.5217483,-58.7007662,Point,"Máquina Educativa CNC Abierta Argentina (MECAA) - Universidad Nacional de General Sarmiento
+-58.7007662,-34.5217483,Point,"Máquina Educativa CNC Abierta Argentina (MECAA) - Universidad Nacional de General Sarmiento
 ",n,active,academic,http://es.mecaa.wikia.com/wiki/Wikia_Maquina_Educativa_CNC_Abierta_Argentina
--34.6211839,-58.3731163,Point,"Mobility Launcher
+-58.3731163,-34.6211839,Point,"Mobility Launcher
 ",n,,Non-academic,https://github.com/lrusso/MobilityLauncher
--32.8976057,-68.8534641,Point,"LabFD FRM-UTN
+-68.8534641,-32.8976057,Point,"LabFD FRM-UTN
 ",y,active,academic,http://frm.utn.edu.ar/labfd
--34.6036844,-58.3815591,Point,"Rayos X abierto
+-58.3815591,-34.6036844,Point,"Rayos X abierto
 ",n,active,Non-academic,
--33.443809,-70.650391,Point,"OpenBio UChile
+-70.650391,-33.443809,Point,"OpenBio UChile
 ",y,active,academic,http://openbio.cl/
-6.2438932,-75.5575664,Point,Platohedro,y,active,Non-academic,http://platohedro.org/
--23.5613991,-46.7307891,Point,Proyecto 'AlgAranha' - University of São Paulo & Universidade Federal de São Paulo,n,,academic,http://2016.igem.org/Team:USP_UNIFESP-Brazil/Hardware
--37.87485339352928,-58.28247070312501,Point,Proyecto 'Vuela' - Drones Abiertos,y,active,Non-academic,https://osf.io/fscn4/
--34.6098208,-58.3926061,Point,"R'lyeh Hacklab
+-75.5575664,6.2438932,Point,Platohedro,y,active,Non-academic,http://platohedro.org/
+-46.7307891,-23.5613991,Point,Proyecto 'AlgAranha' - University of São Paulo & Universidade Federal de São Paulo,n,,academic,http://2016.igem.org/Team:USP_UNIFESP-Brazil/Hardware
+-58.28247070312501,-37.87485339352928,Point,Proyecto 'Vuela' - Drones Abiertos,y,active,Non-academic,https://osf.io/fscn4/
+-58.3926061,-34.6098208,Point,"R'lyeh Hacklab
 ",y,active,Non-academic,https://rlab.be
--3.1365287,-55.0493375,Point,Rede InfoAmazonia,n,active,Non-academic,http://rede.infoamazonia.org/
--31.5855109,-60.7238016,Point,"SANTA LAB
+-55.0493375,-3.1365287,Point,Rede InfoAmazonia,n,active,Non-academic,http://rede.infoamazonia.org/
+-60.7238016,-31.5855109,Point,"SANTA LAB
 ",n,active,Non-academic,https://www.santafe.gob.ar/index.php/web/content/view/full/203591/(subtema)/93686
--34.9047511,-57.9259721,Point,"Sistema de Monitoreo Meteorológico - Universidad Tecnológica Nacional, Facultad Regional La Plata",n,,academic,http://44jaiio.sadio.org.ar/sites/default/files/est54-62.pdf
--34.5936291,-58.4836821,Point,Sistema de monitoreo y control remoto de pH y temperatura en cultivos de microalgas,n,,academic,tarearte@agro.uba.ar
--33.6861588,-71.2166838,Point,SombreroLab,y,active,Non-academic,https://osf.io/fscn4/
--34.9041047,-57.9381708,Point,UNLP - Facultad de Informática,n,,academic,http://extension.info.unlp.edu.ar/uploads/docs/calzado_haptico__navegabilidad_asistida_para_personas_con_disminucion_visual.pdf
--34.587488,-58.422949,Point,Yaeltex - Controladores MIDI abiertos,n,active,business,https://yaeltex.com/
--33.435452502070085,-70.64620971679686,Point, Open Source Multifluorescent Imaging,y,active,academic,https://osf.io/dy6p2/wiki/home/
--32.8834795,-68.8671970,Point,Fisica interactiva - Pablo Cremades,y,active,academic,http://fcen.uncuyo.edu.ar/fisica-interactiva
+-57.9259721,-34.9047511,Point,"Sistema de Monitoreo Meteorológico - Universidad Tecnológica Nacional, Facultad Regional La Plata",n,,academic,http://44jaiio.sadio.org.ar/sites/default/files/est54-62.pdf
+-58.4836821,-34.5936291,Point,Sistema de monitoreo y control remoto de pH y temperatura en cultivos de microalgas,n,,academic,tarearte@agro.uba.ar
+-71.2166838,-33.6861588,Point,SombreroLab,y,active,Non-academic,https://osf.io/fscn4/
+-57.9381708,-34.9041047,Point,UNLP - Facultad de Informática,n,,academic,http://extension.info.unlp.edu.ar/uploads/docs/calzado_haptico__navegabilidad_asistida_para_personas_con_disminucion_visual.pdf
+-58.422949,-34.587488,Point,Yaeltex - Controladores MIDI abiertos,n,active,business,https://yaeltex.com/
+-70.64620971679686,-33.435452502070085,Point, Open Source Multifluorescent Imaging,y,active,academic,https://osf.io/dy6p2/wiki/home/
+-68.8671970,-32.8834795,Point,Fisica interactiva - Pablo Cremades,y,active,academic,http://fcen.uncuyo.edu.ar/fisica-interactiva
