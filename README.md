@@ -1,6 +1,6 @@
-## Welcome to the Open Hardware collaborative Map!
+# Welcome to the Open Hardware collaborative Map!
 
-[The Map](openhwmap.geojson) 
+[**The Map**](openhwmap.geojson) 
 
 This initiative aims to build a collaborative database -and map- of open hardware projects around the world. It started with projects from Latin America as part of my [PhD](https://thessaly.github.io/phd/) and now we want to make it global as part of the [Global Open Source Hardware](https://openhardware.science) community. 
 
@@ -30,13 +30,13 @@ A comma-separated values (CSV) file stores tabular data (numbers and text) in pl
 
 So you just need to edit the file, go to the last row and add another row, with the following format:
 
-##### fields
+##### > fields
 `latitude,longitude,geometry,name,GOSH,status,type,url`
 
-##### example
+##### > example
 `-31.4116703,-64.2315674,Point,"AlterMundi - Redes libres comunitarias",n,active,Non-academic,http://altermundi.net`
 
-#### data required
+##### > data required
 
 Up to now, we're requiring the following data for each Open Hardware project:
 
