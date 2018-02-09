@@ -48,7 +48,9 @@ latitude: in decimal values
 longitud: in decimal values
 ```
 
-If you don't have the coordinates for your point, you can easily obtain them by going to [GeoJSON.io](http://geojson.io), selecting the marker tool (A), creating a point (B) and copy&pasting the data (C) as follows ![coordinates](/screenshots/coordinates.png) 
+If you don't have the coordinates for your point, you can easily obtain them by going to [GeoJSON.io](http://geojson.io), selecting the marker tool (A), creating a point (B) and copy&pasting the data (C) as follows (**IMPORTANT**: note that you have to enter the latitude value **first** and then the longitude value in the csv, but geojson.io gives you the values **the other way round**) 
+
+![coordinates](/screenshots/coordinates.png) 
 
 ```
 geometry: by default, value is always 'Point'    
