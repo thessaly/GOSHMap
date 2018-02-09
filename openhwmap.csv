@@ -34,7 +34,7 @@ latitude,longitude,geometry,name,GOSH,status,type,url
 ",n,active,academic,http://es.mecaa.wikia.com/wiki/Wikia_Maquina_Educativa_CNC_Abierta_Argentina
 -34.6211839,-58.3731163,Point,"Mobility Launcher
 ",n,,Non-academic,https://github.com/lrusso/MobilityLauncher
- -68.85346412658691,-32.897605780065945,Point,"LabFD FRM-UTN
+ -68.8534641,-32.8976057,Point,"LabFD FRM-UTN
 ",y,active,academic,http://frm.utn.edu.ar/labfd
 -34.6036844,-58.3815591,Point,"Rayos X abierto
 ",n,active,Non-academic,
