@@ -34,7 +34,7 @@ latitude,longitude,geometry,name,GOSH,status,type,url
 ",n,active,academic,http://es.mecaa.wikia.com/wiki/Wikia_Maquina_Educativa_CNC_Abierta_Argentina
 -34.6211839,-58.3731163,Point,"Mobility Launcher
 ",n,,Non-academic,https://github.com/lrusso/MobilityLauncher
- -68.8534641,-32.8976057,Point,"LabFD FRM-UTN
+-32.8976057,-68.8534641,Point,"LabFD FRM-UTN
 ",y,active,academic,http://frm.utn.edu.ar/labfd
 -34.6036844,-58.3815591,Point,"Rayos X abierto
 ",n,active,Non-academic,
@@ -53,5 +53,5 @@ latitude,longitude,geometry,name,GOSH,status,type,url
 -33.6861588,-71.2166838,Point,SombreroLab,y,active,Non-academic,https://osf.io/fscn4/
 -34.9041047,-57.9381708,Point,UNLP - Facultad de Informática,n,,academic,http://extension.info.unlp.edu.ar/uploads/docs/calzado_haptico__navegabilidad_asistida_para_personas_con_disminucion_visual.pdf
 -34.587488,-58.422949,Point,Yaeltex - Controladores MIDI abiertos,n,active,business,https://yaeltex.com/
--70.64620971679686,-33.435452502070085,Point, Open Source Multifluorescent Imaging,y,active,academic,https://osf.io/dy6p2/wiki/home/
--68.8671970,-32.8834795,Point,Fisica interactiva - Pablo Cremades,y,active,academic,http://fcen.uncuyo.edu.ar/fisica-interactiva
+-33.435452502070085,-70.64620971679686,Point, Open Source Multifluorescent Imaging,y,active,academic,https://osf.io/dy6p2/wiki/home/
+-32.8834795,-68.8671970,Point,Fisica interactiva - Pablo Cremades,y,active,academic,http://fcen.uncuyo.edu.ar/fisica-interactiva
