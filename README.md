@@ -1,3 +1,5 @@
+[Versión en español](leer.md)
+
 # Welcome to the Open Hardware collaborative Map!
 
 [**The Map**](openhwmap.geojson) 
