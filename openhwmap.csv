@@ -3,8 +3,6 @@ latitude,longitude,geometry,name,GOSH,status,type,url
 ",n,active,Non-academic,http://altermundi.net
 -12.024514,-77.0565978,Point,Biomakers Lab,y,active,academic,http://biomakerslab.wixsite.com/home
 -30.1110841,-51.2377954,Point,"Centro de Tecnologia Acadêmica, Instituto de Física - Universidad Federal de Río Grande del Sur",y,active,academic,http://cta.if.ufrgs.br
--34.637701,-58.4002165,Point,"cheLA - Centro Hipermediático Experimental Latinoamericano
-",n,active,Non-academic,http://chela.org.ar/
 -34.5888647,-58.3973627,Point,"Computadora Industrial Abierta Argentina (CIAA)
 ",n,active,Non-academic,http://www.proyecto-ciaa.com.ar
 -34.5980172,-58.3848625,Point,Diseño y construcción de objetos interactivos digitales. Experimentos con la plataforma Arduino - UNIPE,n,active,academic,http://sedici.unlp.edu.ar/handle/10915/50448
