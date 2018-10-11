@@ -19,8 +19,6 @@ latitude,longitude,geometry,name,GOSH,status,type,url
 ",y,active,academic,https://federicilab.org/
 -34.576125,-58.513441,Point,"FPGA libre - Unidad Técnica Instrumentación y Control, INTI
 ",n,,Non-academic,http://fpgalibre.sourceforge.net
--38.9401499,-68.0573579,Point,"Frankestito (Robótica educativa) - Facultad de Informática, Universidad Nacional Comahue
-",n,,academic,http://se.fi.uncoma.edu.ar/robots/
 19.4326077,-99.133208,Point,Interspecifics,y,active,artist,http://interspecifics.cc
 -34.5421289,-58.4444449,Point,"IQUIBICEN (CONICET) - Alejandro Nadra
 ",y,active,academic,https://sites.google.com/site/alejandrodnadra/
