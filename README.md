@@ -1,8 +1,8 @@
 [Versión en español](leer.md)
 
-# Welcome to the Open Hardware collaborative Map!
+# Welcome to the Open Science Hardware collaborative Map!
 
-[**The Map**](openhwmap.geojson) 
+[**The Map**](http://u.osmfr.org/m/255581/) 
 
 This initiative aims to build a collaborative database -and map- of open hardware projects around the world. It started with projects from Latin America as part of my [PhD](https://thessaly.github.io/phd/) and now we want to make it global as part of the [Global Open Source Hardware](https://openhardware.science) community. 
 
@@ -15,9 +15,7 @@ The database is contained in a .csv file you'll find in this repo, called [openh
 
 Users can collaborate by generating pull requests to this file, that are reviewed and merged. 
 
-Once merged, a [.geojson file](https://github.com/thessaly/OpenHWMap/blob/master/openhwmap.geojson) is generated from the updated .csv. 
-
-GitHub [automatically renders](https://help.github.com/articles/mapping-geojson-files-on-github/) .geojson files from repos, so that's how we get our basic map, that can be embedded anywhere.
+The .csv file is then converted to a map by [Umap](http://umap.openstreetmap.fr), based on [Open Street Map](http://openstreetmap.org).
 
 
 ### How to collaborate?
