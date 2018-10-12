@@ -1,6 +1,13 @@
-### How does it work?
+So you want to add a project to the map? Thanks <3
 
-The database is contained in a .csv file you'll find in this repo, called [goshmap.csv](https://github.com/thessaly/GOSHMap/blob/master/goshmap.csv).
+If you have a GitHub account, keep reading the instructions.
+
+If you don't have a GitHub account, send me an e-mail with the project name, location and a URL to julieta@rlab.be
+
+
+### How does the map work?
+
+The database of projects is contained in a .csv file you'll find in this repo, called [goshmap.csv](https://github.com/thessaly/GOSHMap/blob/master/goshmap.csv).
 
 You can collaborate by generating pull requests to this file, that are reviewed for consistency and merged. 
 
@@ -11,11 +18,11 @@ The .csv file is then turned into a map by [Umap](http://umap.openstreetmap.fr),
 
 If you know about an open hardware project (or maybe it's your own project!) that isn't listed in our map, do the following:
 
-#### 1. [Fork](https://help.github.com/articles/fork-a-repo/) this repo
+#### 1. Log into your GitHub account and go to https://github.com/thessaly/GOSHMap
 
-#### 2. Add the project info to **openhwmap.csv** 
+#### 2. Edit the file **openhwmap.csv** 
 
-A comma-separated values (CSV) file stores tabular data (numbers and text) in plain text. Each line of the file is a data record (in our case, each row is an open hardware project). Each record consists of one or more fields, separated by commas. 
+This file is a comma-separated values (CSV) one. It stores tabular data (numbers and text) in plain text. Each line of the file is a data record (in our case, each row is an open hardware project). Each record consists of one or more fields, separated by commas. 
 
 So you just need to edit the file, go to the last row and add another row, with the following format:
 
@@ -27,7 +34,7 @@ So you just need to edit the file, go to the last row and add another row, with 
 
 ##### > data required
 
-Up to now, we're requiring the following data for each Open Hardware project:
+Up to now, we're requiring the following data for each Open Science Hardware project:
 
 ```
 latitude: in decimal values    
@@ -35,7 +42,7 @@ latitude: in decimal values
 longitud: in decimal values
 ```
 
-If you don't have the coordinates for your point, you can easily obtain them by going to [GeoJSON.io](http://geojson.io), selecting the marker tool (A), creating a point (B) and copy&pasting the data (C) as follows (**IMPORTANT**: note that you have to enter the latitude value **first** and then the longitude value in the csv, but geojson.io gives you the values **the other way round**) 
+If you don't have the coordinates for your point, you can easily obtain them by going to [GeoJSON.io](http://geojson.io), selecting the marker tool (A), creating a point (B) and copy&pasting the data (C) as follows 
 
 ![coordinates](/screenshots/coordinates.png) 
 
@@ -61,6 +68,6 @@ type: this field admits four different values - 'academic'/'non-academic'/'artis
 url: website, repo, a reference url where to find more about the project    
 ```
 
-#### 3. Create a [pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
+#### 3. Commit the change and make a [pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 
 #### 4. Wait for it to be approved and merged into the main file (won't take long, promise!)
