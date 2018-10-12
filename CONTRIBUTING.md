@@ -1,4 +1,6 @@
-So you want to add a project to the map? Thanks <3
+# I want to add a project to the map
+
+Thanks <3
 
 If you have a GitHub account, keep reading the instructions.
 
@@ -16,7 +18,7 @@ The .csv file is then turned into a map by [Umap](http://umap.openstreetmap.fr),
 
 ### How to collaborate?
 
-If you know about an open hardware project (or maybe it's your own project!) that isn't listed in our map, do the following:
+If you know an open hardware project (or maybe it's your own project!) that isn't listed in our map, do the following:
 
 #### 1. Log into your GitHub account and go to https://github.com/thessaly/GOSHMap
 
