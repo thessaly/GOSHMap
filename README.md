@@ -82,6 +82,12 @@ This is the minimum proposed structure that allows us to map projects that are p
 
 </details>
 
+### Contributing to the map
+
+You can contribute by adding nodes, translating data, enhancing visualizations or anything else that comes to your mind.
+
+Check the [contribution guidelines](CONTRIBUTING.md) to see how.
+
 ### Further uses of the map 
 
 Besides visualizing where GOSH projects are, I think structuring data this way can be useful for other things. E.g. listing resources that people find useful, links to journal articles, institutions supporting open science hardware, events organized by the community and so on. 
