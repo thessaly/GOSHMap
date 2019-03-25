@@ -1,73 +1,100 @@
-# I want to add a project to the map
-
-Thanks for contributing :heart: 
+# I want to add a project to the map :heart:
 
 ### How does the map work?
 
-The database of projects in the map is publicly available in [Wikidata](https://www.wikidata.org) and displayed as a map through a service also provided by Wikidata.
+The database of projects in the map is publicly available in [Wikidata](https://www.wikidata.org) and displayed as a map through the [Wikidata Query Service](https://query.wikidata.org).
 
 In very very simple words, Wikidata is like Wikipedia but instead of writing articles you contribute to it with structured data. 
-This means you can define your own structure for data you're interested in, and then search the database with the [Query tool](https://query.wikidata.org) and get your results (and, like in our case, display them in a map). 
+This means you can define your own structure for data that is out there or you want to input, and then use that same structure to search the database with the Query service. As part of the latter you can visualize results as a table, graph or map (if your data has geo coordinates).
 
-The interesting part is that with a small collaboration you can get big results. E.g., in order to display a map I need to know the geographical coordinates of each project. But I don't need to input them, as I can add which city the project works in, and the coordinates for that city are already on Wikidata so I just call them in my query. 
+[Database in table format](http://tinyurl.com/y6nxlzev)     
+[Database in graph format]()    
+[Database in map format]()
 
-This is a super simple example but kinda illustrates how we can get new information by linking our contributions to existing data in Wikidata.
+The benefits I see from this approach are:    
+- Anyone can add a point in the map and use the database
+- Map is always updated as there's no need for integration with other services for visualization (like umap before)
+- Easy to link with other sources of data (wikipedia articles, github repos, journal articles)
+- Engagement with the bigger wikimedia community
+- Small collaboration provides big benefits: by linking our projects with other info already in wikidata we get a bigger picture
+
+There is a small possibility of vandalism, that's why I keep a periodic [backup]() of the database.
+
+#### Data model
+This is the minimum proposed structure that allows us to map projects that are part of GOSH community. It's made taking into account the available properties defined by the Wikidata community. 
+
+1. Node must be `instance of (P31)` one of the following:
+
+- `project (Q170584)`
+- `community (Q177634)`
+- `university research group (Q28863779)`
+- `business (Q4830453)`
+- `institution (Q178706)`
+
+2. Node must have statement `use (P366)` with one of the following values:
+
+- `education (Q8434)`
+- `art (Q735)`
+- `academic research (Q62393045)`
+- `community science (Q62392920)`
+
+3. Node must have statement `field of work (P101)` with one of the following values or any other value available and useful:
+
+- `microscopy	Q1074953`
+- `biohacking	Q5205179`
+- `unmanned aerial vehicle	Q484000`
+- `microfluidics	Q138845`
+- `transfeminism Q3308597`
+- `air quality	Q56245086`
+- `soil quality	Q2034420`
+- `water quality	Q625376`
+- `health Q12147`
+- `physics	Q413`
+- `sound	Q11461`
+- `audiovisual	Q2431196`
+- `textile	Q28823`
+- `social innovation	Q1399209`
+- `STEAM education Q62393596`
+
+4. Node must have statement `official website (P856)` with a link pointing to documentation
+
+5. Node must have statement `location (P276)` with value corresponding to item of the city where node happens.
+
+  *Note: if city or region item doesn't have coordinate locations within its own page, node won't be mapped*
+
+6. Node must have statement `part of (P361)` with value `Global Open Science Hardware (Q62391989)`
+
 
 ### How to collaborate?
 
-So, if you know of an open science hardware project (or maybe it's your own project!) that isn't listed in our map, do the following:
+#### Add a project
+Check this tutorial ---> Video
 
-1. Go to wikidata.org
-2. Look for the project in the search box - if there is an item in Wikidata for this project, go to 3
-3. Add a new statement 
-#### 2. Edit the file **openhwmap.csv** 
+If you know of an open science hardware project (or maybe it's your own project!) that isn't listed in our map, do the following:
 
-This file is a comma-separated values (CSV) one. It stores tabular data (numbers and text) in plain text. Each line of the file is a data record (in our case, each row is an open hardware project). Each record consists of one or more fields, separated by commas. 
+1. Go to [Wikidata](https://wikidata.org) and create a user (not mandatory but I recommend it so you can trace your changes)
+2. Look for the project in the search box. 
 
-So you just need to edit the file, go to the last row and add another row, with the following format:
+**If project already has a page (item) in Wikidata**
 
-##### > fields
-`latitude,longitude,geometry,name,GOSH,status,type,url`
+3. Make sure the six statements explained in *'Data model'* are there with its corresponding values
 
-##### > example
-`-31.4116703,-64.2315674,Point,"AlterMundi - Redes libres comunitarias",n,active,Non-academic,http://altermundi.net`
+**If you can't find your project in Wikidata:**
 
-##### > data required
+3. Create an item
+4. Add a label and description of your project
+5. Make sure you add the six statements explained in *'Data model'*, with its corresponding values
 
-Up to now, we're requiring the following data for each Open Science Hardware project:
+Finally, check if your node has been added in [the map](http://tinyurl.com/y5d6hqb3) or in the [table](http://tinyurl.com/y6nxlzev). It's not automatic, may take a while to update (max 20').
 
-```
-latitude: in decimal values    
+If you have any problems or questions you can contact me: **jarancio[at]fund-cenit.org.ar**
 
-longitud: in decimal values
-```
+#### Translate data
+Check this tutorial ---> Video
 
-If you don't have the coordinates for your point, you can easily obtain them by going to [GeoJSON.io](http://geojson.io), selecting the marker tool (A), creating a point (B) and copy&pasting the data (C) as follows 
 
-![coordinates](/screenshots/coordinates.png) 
+### Further uses of the map 
 
-```
-geometry: by default, value is always 'Point'    
+Besides visualizing where GOSH projects are, I think structuring data this way can be useful for other things. E.g. listing resources that people find useful, links to journal articles, institutions supporting open science hardware, events organized by the community and so on. 
 
-name: name of the project    
-
-GOSH: this field admits two different values - 'y'/'n'  
-  y= this project is part of the GOSH community
-  n= this project is not part of the GOSH community   
-
-status: this field admits two different values - 'active'/'inactive'    
-  active= project had some activity going on during the last year    
-  inactive= there's been no activity in the project for the last year    
-
-type: this field admits four different values - 'academic'/'non-academic'/'artist'/'business'    
-  academic= depending on university or research institution    
-  non-academic= outside academia community project   
-  artist= independent or collective artists    
-  business= for profit developments    
-
-url: website, repo, a reference url where to find more about the project    
-```
-
-#### 3. Commit the change and make a [pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
-
-#### 4. Wait for it to be approved and merged into the main file (won't take long, promise!)
+This organized information can then feed e.g. a landing page for people outside the community, but also be useful for evaluating through time how the community changes, if nodes are created, disappear or change.
