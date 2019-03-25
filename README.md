@@ -37,7 +37,7 @@ There is a small possibility of vandalism, that's why I keep a periodic [backup]
 <p>
 This is the minimum proposed structure that allows us to map projects that are part of GOSH community. It's made taking into account the available items (Q) and properties (P) defined by the Wikidata community. 
 
-Check an example here: [Monitor Abierto de Calidad de Aire (MACA)](https://www.wikidata.org/wiki/Q62395443)
+*Check an example here: [Monitor Abierto de Calidad de Aire (MACA)](https://www.wikidata.org/wiki/Q62395443)*
 
 1. Node must be `instance of (P31)` one of the following:
 
