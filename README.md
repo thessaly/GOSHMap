@@ -4,7 +4,7 @@
 
 This initiative aims to build a collaborative database of open science hardware projects around the world. It started with projects from Latin America as part of my [PhD](https://github.com/thessaly/phd/) and now we want to make it global as part of the [Global Open Source Hardware](https://openhardware.science) community. 
 
-[**:earth_americas: Map**](http://tinyurl.com/y5d6hqb3)   
+[**:earth_americas: Map**](http://tinyurl.com/y2ehx763)   
 
 [**:heart: I want to contribute**](CONTRIBUTING.md)
 
@@ -18,9 +18,9 @@ In very very simple words, Wikidata is like Wikipedia but instead of writing art
 
 This means you can define your own data model, input data or import it from available sources and then use that same structure to search the database with the Query service. As part of the latter you can visualize results as a table, graph or map (if your data has geo coordinates).
 
-[Database in table format](http://tinyurl.com/y6nxlzev)     
-[Database in graph format]()    
-[Database in map format]()
+[Database in table format](http://tinyurl.com/y4f4ugrh)     
+[Example in graph format](/screenshots/graphgosh.png)    
+
 
 The benefits I see from this approach are:    
 - Anyone can contribute;
@@ -87,5 +87,4 @@ This is the minimum proposed structure that allows us to map projects that are p
 Besides visualizing where GOSH projects are, I think structuring data this way can be useful for other things. E.g. listing resources that people find useful, links to journal articles, institutions supporting open science hardware, events organized by the community and so on. 
 
 This organized information can then feed e.g. a landing page for people outside the community, but also be useful for evaluating through time how the community changes, if nodes are created, disappear or change.
-
 
