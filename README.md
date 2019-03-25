@@ -88,3 +88,4 @@ Besides visualizing where GOSH projects are, I think structuring data this way c
 
 This organized information can then feed e.g. a landing page for people outside the community, but also be useful for evaluating through time how the community changes, if nodes are created, disappear or change.
 
+#### If you have any problems or questions you can contact me: jarancio[at]fund-cenit.org.ar
