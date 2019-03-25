@@ -1,27 +1,25 @@
 # I want to add a project to the map
 
-Thanks <3
-
-If you have a GitHub account, keep reading the instructions.
-
-If you don't have a GitHub account, send me an e-mail with the project name, location and a URL to julieta@rlab.be
-
+Thanks for contributing :heart: 
 
 ### How does the map work?
 
-The database of projects is contained in a .csv file you'll find in this repo, called [goshmap.csv](https://github.com/thessaly/GOSHMap/blob/master/goshmap.csv).
+The database of projects in the map is publicly available in [Wikidata](https://www.wikidata.org) and displayed as a map through a service also provided by Wikidata.
 
-You can collaborate by generating pull requests to this file, that are reviewed for consistency and merged. 
+In very very simple words, Wikidata is like Wikipedia but instead of writing articles you contribute to it with structured data. 
+This means you can define your own structure for data you're interested in, and then search the database with the [Query tool](https://query.wikidata.org) and get your results (and, like in our case, display them in a map). 
 
-The .csv file is then turned into a map by [Umap](http://umap.openstreetmap.fr), based on [Open Street Map](http://openstreetmap.org).
+The interesting part is that with a small collaboration you can get big results. E.g., in order to display a map I need to know the geographical coordinates of each project. But I don't need to input them, as I can add which city the project works in, and the coordinates for that city are already on Wikidata so I just call them in my query. 
 
+This is a super simple example but kinda illustrates how we can get new information by linking our contributions to existing data in Wikidata.
 
 ### How to collaborate?
 
-If you know an open hardware project (or maybe it's your own project!) that isn't listed in our map, do the following:
+So, if you know of an open science hardware project (or maybe it's your own project!) that isn't listed in our map, do the following:
 
-#### 1. Log into your GitHub account and go to https://github.com/thessaly/GOSHMap
-
+1. Go to wikidata.org
+2. Look for the project in the search box - if there is an item in Wikidata for this project, go to 3
+3. Add a new statement 
 #### 2. Edit the file **openhwmap.csv** 
 
 This file is a comma-separated values (CSV) one. It stores tabular data (numbers and text) in plain text. Each line of the file is a data record (in our case, each row is an open hardware project). Each record consists of one or more fields, separated by commas. 
