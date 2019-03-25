@@ -2,7 +2,7 @@
 
 Thank you! :hatched_chick: :tada:
 
-If you have any problems or questions you can contact me: :mailbox: **jarancio[at]fund-cenit.org.ar**
+If you have any problems or questions you can contact me: **jarancio[at]fund-cenit.org.ar**
 
 <details><summary><b>:wrench: Adding a project to the map</b></summary>
 <p>
