@@ -2,6 +2,8 @@
 
 Thank you! :hatched_chick: :tada:
 
+If you have any problems or questions you can contact me: **jarancio[at]fund-cenit.org.ar**
+
 <details><summary><b>Adding a project to the map</b></summary>
 <p>
 Check this tutorial ---> Video
@@ -32,4 +34,3 @@ Check this tutorial ---> Video
 <p>
 </details>
 
-If you have any problems or questions you can contact me: **jarancio[at]fund-cenit.org.ar**
