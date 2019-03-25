@@ -34,3 +34,8 @@ Check this tutorial ---> Video
 <p>
 </details>
 
+<details><summary><b>:sparkler: Better visualizations</b></summary>
+<p>
+Are you aware of any tools on top of wikidata that can make the map look better? Contact me!
+<p>
+</details>
