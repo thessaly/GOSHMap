@@ -1,12 +1,12 @@
 # Global Open Science Hardware Map
 
-[Versión en español](leer.md)
+[:es:](leer.md)
 
 This initiative aims to build a collaborative database of open science hardware projects around the world. It started with projects from Latin America as part of my [PhD](https://thessaly.github.io/phd/) and now we want to make it global as part of the [Global Open Source Hardware](https://openhardware.science) community. 
 
-[**- The Map -**](http://tinyurl.com/y5d6hqb3)   
+[**:earth_americas: Map**](http://tinyurl.com/y5d6hqb3)   
 
-[I want to contribute :heart:](CONTRIBUTING.md)
+[**:heart: I want to contribute**](CONTRIBUTING.md)
 
 
 ### How does the map work?
