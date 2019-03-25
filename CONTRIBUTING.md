@@ -23,7 +23,7 @@ If you know of an open science hardware project (or maybe it's your own project!
 4. Add a label and description of your project
 5. Make sure you add the six statements explained in *'Data model'*, with their corresponding values
 
-Finally, check if your node has been added in [the map](http://tinyurl.com/y5d6hqb3). It's not automatic, may take a while to update (max 20').
+Finally, check if your node has been added in [the map](http://tinyurl.com/y2ehx763). It's not automatic, may take a while to update (max 20').
 
 <p>
 </details>
