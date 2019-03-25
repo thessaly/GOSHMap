@@ -18,7 +18,7 @@ In very very simple words, Wikidata is like Wikipedia but instead of writing art
 
 This means you can define your own data model, input data or import it from available sources and then use that same structure to search the database with the Query service. As part of the latter you can visualize results as a table, graph or map (if your data has geo coordinates).
 
-[Database in table format](http://tinyurl.com/y4f4ugrh)     
+[Database in table format](https://query.wikidata.org/#SELECT%20%3Fitem%20%3FitemLabel%20%3FlugarLabel%20%3FtipoLabel%20%3FareaLabel%20%3Fcoords%20WHERE%20%7B%0A%20%20%3Fitem%20wdt%3AP361%20wd%3AQ62391989%3B%0A%20%20%20%20%20%20%20%20wdt%3AP276%20%3Flugar%3B%0A%20%20%20%20%20%20%20%20wdt%3AP31%20%3Ftipo%3B%0A%20%20%20%20%20%20%20%20wdt%3AP366%20%3Farea.%0A%20%20%3Flugar%20wdt%3AP625%20%3Fcoords.%0A%20%20SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22.%20%7D%0A%7D)     
 [Example in graph format](/screenshots/graphgosh.png)    
 
 
