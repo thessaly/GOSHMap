@@ -2,16 +2,15 @@
 
 [Versión en español](leer.md)
 
-[**The Map**](http://tinyurl.com/y5d6hqb3) 
-
 This initiative aims to build a collaborative database of open science hardware projects around the world. It started with projects from Latin America as part of my [PhD](https://thessaly.github.io/phd/) and now we want to make it global as part of the [Global Open Source Hardware](https://openhardware.science) community. 
 
-We're discussing the specifics of the map in [this thread](https://forum.openhardware.science/t/map-cadastre-list-of-open-science-hardware-initiatives-in-chile-latam/835/3), in case you want to check the latest news. It's still 'work in progress'.
+[**- The Map -**](http://tinyurl.com/y5d6hqb3)   
 
-[I want to add a project :heart:](CONTRIBUTING.md).
+[I want to contribute :heart:](CONTRIBUTING.md)
+
 
 ### How does the map work?
-The database of projects in the map is publicly available in [Wikidata](https://www.wikidata.org) and displayed as a map through the [Wikidata Query Service](https://query.wikidata.org).
+The database of projects is publicly available in [Wikidata](https://www.wikidata.org) and displayed as a map through the [Wikidata Query Service](https://query.wikidata.org).
 
 <details><summary><b>Why Wikidata?</b></summary>
 <p>
