@@ -2,9 +2,9 @@
 
 Thank you! :hatched_chick: :tada:
 
-If you have any problems or questions you can contact me: **jarancio[at]fund-cenit.org.ar**
+If you have any problems or questions you can contact me: :mailbox: **jarancio[at]fund-cenit.org.ar**
 
-<details><summary><b>Adding a project to the map</b></summary>
+<details><summary><b>:wrench: Adding a project to the map</b></summary>
 <p>
 Check this tutorial ---> Video
 
@@ -28,7 +28,7 @@ Finally, check if your node has been added in [the map](http://tinyurl.com/y5d6h
 <p>
 </details>
 
-<details><summary><b>Translating data</b></summary>
+<details><summary><b>:pencil: Translating data</b></summary>
 <p>
 Check this tutorial ---> Video
 <p>
