@@ -1,23 +1,17 @@
-latitude,longitude,geometry,name,GOSH,status,type,url
--12.024514,-77.0565978,Point,Biomakers Lab,y,active,academic,http://biomakerslab.wixsite.com/home
--30.1110841,-51.2377954,Point,"Centro de Tecnologia Acadêmica, Instituto de Física - Universidad Federal de Río Grande del Sur",y,active,academic,http://cta.if.ufrgs.br
--30.0328388,-51.2364578,Point,EITCHA - Escola Itinerante de Tecnologia Cidadã Hacker,y,active,Non-academic,http://eitcha.org/
-6.2698761,-75.5659681,Point,Exploratorio,y,active,academic,www.parqueexplora.org/exploratorio
--33.4411279,-70.6407933,Point,"Fernan Federici Research Group - PUC
-",y,active,academic,https://federicilab.org/
-19.4326077,-99.133208,Point,Interspecifics,y,active,artist,http://interspecifics.cc
--34.5421289,-58.4444449,Point,"SensAR (Alejandro Nadra)
-",y,active,academic,https://sites.google.com/site/alejandrodnadra/
--34.5711496,-58.4232966,Point,"Laura Olalde - Artista
-",y,active,artist,
--32.8976057,-68.8534641,Point,"LabFD FRM-UTN
-",y,active,academic,http://frm.utn.edu.ar/labfd
--33.443809,-70.650391,Point,"OpenBio UChile
-",y,active,academic,http://openbio.cl/
-6.2438932,-75.5575664,Point,Platohedro,y,active,Non-academic,http://platohedro.org/
--37.87485339352928,-58.28247070312501,Point,Proyecto 'Vuela' - Drones Abiertos,y,active,Non-academic,https://osf.io/fscn4/
--34.6098208,-58.3926061,Point,"ETER - R'lyeh hacklab
-",y,active,Non-academic,https://rlab.be
--3.1365287,-55.0493375,Point,Rede InfoAmazonia,n,active,Non-academic,http://rede.infoamazonia.org/
--33.435452502070085,-70.64620971679686,Point, Open Source Multifluorescent Imaging,y,active,academic,https://osf.io/dy6p2/wiki/home/
--32.8834795,-68.8671970,Point,Fisica interactiva - Pablo Cremades,y,active,academic,http://fcen.uncuyo.edu.ar/fisica-interactiva
+item,itemLabel,lugarLabel,tipoLabel,areaLabel,url,coords
+http://www.wikidata.org/entity/Q15898569,Parque Explora,Medellín,science museum,education,http://www.parqueexplora.org,Point(-75.574827777 6.244747222)
+http://www.wikidata.org/entity/Q62395381,Vuela,Melipilla,project,community science,https://osf.io/fscn4/,Point(-71.216666666 -33.7)
+http://www.wikidata.org/entity/Q62395408,Laboratorio de Fabricacion Digital UTN-FRM,Mendoza,university research group,academic research,http://frm.utn.edu.ar/labfd,Point(-68.833333333 -32.883333333)
+http://www.wikidata.org/entity/Q62395429,La Jaquer Escool,Medellín,project,education,http://platohedro.org/la-jaquer-escool/,Point(-75.574827777 6.244747222)
+http://www.wikidata.org/entity/Q62395430,Biomakers Lab,Lima,community,community science,https://biomakerslab.wixsite.com,Point(-77.033333333 -12.05)
+http://www.wikidata.org/entity/Q62395431,Centro de Tecnologia Acadêmica,Porto Alegre,university research group,academic research,http://cta.if.ufrgs.br,Point(-51.23 -30.032777777)
+http://www.wikidata.org/entity/Q62395432,EITCHA - Escola Itinerante de Tecnologia Cidadã Hacker,Porto Alegre,project,education,http://eitcha.org/,Point(-51.23 -30.032777777)
+http://www.wikidata.org/entity/Q62395434,Fernan Federici research group,Santiago,university research group,academic research,https://federicilab.org/,Point(-70.666666666 -33.45)
+http://www.wikidata.org/entity/Q62395435,Interspecifics,Mexico City,project,art,http://interspecifics.cc,Point(-99.145555555 19.419444444)
+http://www.wikidata.org/entity/Q62395436,SensAR,Buenos Aires,project,academic research,http://www.sensar.com.ar/,Point(-58.381944444 -34.599722222)
+http://www.wikidata.org/entity/Q62395437,OpenBio,Santiago,community,academic research,http://openbio.cl/,Point(-70.666666666 -33.45)
+http://www.wikidata.org/entity/Q62395438,Rede InfoAmazonia,Amazon rainforest,project,community science,https://publiclab.org/notes/vjpixel/07-31-2014/rede-infoamazonia,Point(-60.03 -3.16)
+http://www.wikidata.org/entity/Q62395439,FluoPi,Santiago,project,academic research,https://osf.io/dy6p2/wiki/home/,Point(-70.666666666 -33.45)
+http://www.wikidata.org/entity/Q62395440,Laboratorio de fisica interactiva,Mendoza,university research group,academic research,http://fcen.uncuyo.edu.ar/fisica-interactiva,Point(-68.833333333 -32.883333333)
+http://www.wikidata.org/entity/Q62395443,Monitor Abierto de Calidad de Aire (MACA),Mendoza,project,community science,https://gitlab.com/nanocastro/Repo_maca,Point(-68.833333333 -32.883333333)
+http://www.wikidata.org/entity/Q62395444,KOMBUCH.ar/nl.GENOMICS,Buenos Aires,project,art,https://laola2020.github.io/,Point(-58.381944444 -34.599722222)
