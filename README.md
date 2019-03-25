@@ -29,7 +29,7 @@ The benefits I see from this approach are:
 - Engagement with the bigger wikimedia community
 - Small collaboration == big benefits - By linking our nodes with other info already in wikidata we get a bigger picture
 
-There is a small possibility of vandalism, that's why I keep a periodic [backup]() of the database in this same repo.
+There is a small possibility of vandalism, that's why I keep a periodic [backup](goshmap.csv) of the database in this same repo.
 
 </details>
 
