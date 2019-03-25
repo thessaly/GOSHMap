@@ -17,7 +17,7 @@ If you know of an open science hardware project (or maybe it's your own project!
 
 3. Make sure the six statements explained in *'Data model'* are there with their corresponding values
 
-**--> If you can't find your project in Wikidata:**
+**--> If you can't find your project in Wikidata**
 
 3. Create an item
 4. Add a label and description of your project
