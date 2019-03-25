@@ -1,7 +1,7 @@
 # I want to add a project to the map :heart:
 
-### How does the map work?
 
+### How does the map work?
 The database of projects in the map is publicly available in [Wikidata](https://www.wikidata.org) and displayed as a map through the [Wikidata Query Service](https://query.wikidata.org).
 
 In very very simple words, Wikidata is like Wikipedia but instead of writing articles you contribute to it with structured data. 
@@ -12,7 +12,8 @@ This means you can define your own data model, input data or import it from avai
 [Database in graph format]()    
 [Database in map format]()
 
-#### Why Wikidata?
+<details><summary><b>Why Wikidata?</b></summary>
+<p>
 The benefits I see from this approach are:    
 - Anyone can contribute;
 - Map is updated everytime you visit it;
@@ -22,7 +23,10 @@ The benefits I see from this approach are:
 
 There is a small possibility of vandalism, that's why I keep a periodic [backup]() of the database in this same repo.
 
-#### Data model
+</details>
+
+<details><summary><b>Data model</b></summary>
+<p>
 This is the minimum proposed structure that allows us to map projects that are part of GOSH community. It's made taking into account the available items (Q) and properties (P) defined by the Wikidata community. 
 
 1. Node must be `instance of (P31)` one of the following:
@@ -67,10 +71,12 @@ This is the minimum proposed structure that allows us to map projects that are p
 6. Node must have statement `part of (P361)` with value `Global Open Science Hardware (Q62391989)`
 
 Check an example here: [Monitor Abierto de Calidad de Aire (MACA)](https://www.wikidata.org/wiki/Q62395443)
+</details>
 
 ### How to collaborate?
 
-#### Add a project
+<details><summary><b>Add a project</b></summary>
+<p>
 Check this tutorial ---> Video
 
 If you know of an open science hardware project (or maybe it's your own project!) that isn't listed in our map, do the following:
@@ -91,10 +97,14 @@ If you know of an open science hardware project (or maybe it's your own project!
 Finally, check if your node has been added in [the map](http://tinyurl.com/y5d6hqb3). It's not automatic, may take a while to update (max 20').
 
 If you have any problems or questions you can contact me: **jarancio[at]fund-cenit.org.ar**
+<p>
+</details>
 
-#### Translate data
+<details><summary><b>Translate data</b></summary>
+<p>
 Check this tutorial ---> Video
-
+<p>
+</details>
 
 ### Further uses of the map 
 
