@@ -2,7 +2,7 @@
 
 [:es:](leer.md)
 
-This initiative aims to build a collaborative database of open science hardware projects around the world. It started with projects from Latin America as part of my [PhD](https://thessaly.github.io/phd/) and now we want to make it global as part of the [Global Open Source Hardware](https://openhardware.science) community. 
+This initiative aims to build a collaborative database of open science hardware projects around the world. It started with projects from Latin America as part of my [PhD](https://github.com/thessaly/phd/) and now we want to make it global as part of the [Global Open Source Hardware](https://openhardware.science) community. 
 
 [**:earth_americas: Map**](http://tinyurl.com/y5d6hqb3)   
 
