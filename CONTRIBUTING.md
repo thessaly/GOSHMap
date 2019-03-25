@@ -36,6 +36,6 @@ Check this tutorial ---> Video
 
 <details><summary><b>:sparkler: Better visualizations</b></summary>
 <p>
-Are you aware of any tools on top of wikidata that can make the map look better? Contact me!
+Are you aware of any tools on top of wikidata that can make the map look better? Or visualizations that can be made using the data we're mapping? Contact me!
 <p>
 </details>
