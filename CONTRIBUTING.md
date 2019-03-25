@@ -12,6 +12,7 @@ This means you can define your own data model, input data or import it from avai
 [Database in graph format]()    
 [Database in map format]()
 
+#### Why Wikidata?
 The benefits I see from this approach are:    
 - Anyone can contribute;
 - Map is updated everytime you visit it;
