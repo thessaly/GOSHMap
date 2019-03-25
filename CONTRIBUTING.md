@@ -5,23 +5,24 @@
 The database of projects in the map is publicly available in [Wikidata](https://www.wikidata.org) and displayed as a map through the [Wikidata Query Service](https://query.wikidata.org).
 
 In very very simple words, Wikidata is like Wikipedia but instead of writing articles you contribute to it with structured data. 
-This means you can define your own structure for data that is out there or you want to input, and then use that same structure to search the database with the Query service. As part of the latter you can visualize results as a table, graph or map (if your data has geo coordinates).
+
+This means you can define your own data model, input data or import it from available sources and then use that same structure to search the database with the Query service. As part of the latter you can visualize results as a table, graph or map (if your data has geo coordinates).
 
 [Database in table format](http://tinyurl.com/y6nxlzev)     
 [Database in graph format]()    
 [Database in map format]()
 
 The benefits I see from this approach are:    
-- Anyone can add a point in the map and use the database
-- Map is always updated as there's no need for integration with other services for visualization (like umap before)
-- Easy to link with other sources of data (wikipedia articles, github repos, journal articles)
+- Anyone can contribute;
+- Map is updated everytime you visit it;
+- Easy to link with other sources of data (wikipedia articles, github repos, journal articles);
 - Engagement with the bigger wikimedia community
-- Small collaboration provides big benefits: by linking our projects with other info already in wikidata we get a bigger picture
+- Small collaboration == big benefits - By linking our nodes with other info already in wikidata we get a bigger picture
 
-There is a small possibility of vandalism, that's why I keep a periodic [backup]() of the database.
+There is a small possibility of vandalism, that's why I keep a periodic [backup]() of the database in this same repo.
 
 #### Data model
-This is the minimum proposed structure that allows us to map projects that are part of GOSH community. It's made taking into account the available properties defined by the Wikidata community. 
+This is the minimum proposed structure that allows us to map projects that are part of GOSH community. It's made taking into account the available items (Q) and properties (P) defined by the Wikidata community. 
 
 1. Node must be `instance of (P31)` one of the following:
 
@@ -64,6 +65,7 @@ This is the minimum proposed structure that allows us to map projects that are p
 
 6. Node must have statement `part of (P361)` with value `Global Open Science Hardware (Q62391989)`
 
+Check an example here: [Monitor Abierto de Calidad de Aire (MACA)](https://www.wikidata.org/wiki/Q62395443)
 
 ### How to collaborate?
 
@@ -75,17 +77,17 @@ If you know of an open science hardware project (or maybe it's your own project!
 1. Go to [Wikidata](https://wikidata.org) and create a user (not mandatory but I recommend it so you can trace your changes)
 2. Look for the project in the search box. 
 
-**If project already has a page (item) in Wikidata**
+**If project already has a page in Wikidata**
 
-3. Make sure the six statements explained in *'Data model'* are there with its corresponding values
+3. Make sure the six statements explained in *'Data model'* are there with their corresponding values
 
 **If you can't find your project in Wikidata:**
 
 3. Create an item
 4. Add a label and description of your project
-5. Make sure you add the six statements explained in *'Data model'*, with its corresponding values
+5. Make sure you add the six statements explained in *'Data model'*, with their corresponding values
 
-Finally, check if your node has been added in [the map](http://tinyurl.com/y5d6hqb3) or in the [table](http://tinyurl.com/y6nxlzev). It's not automatic, may take a while to update (max 20').
+Finally, check if your node has been added in [the map](http://tinyurl.com/y5d6hqb3). It's not automatic, may take a while to update (max 20').
 
 If you have any problems or questions you can contact me: **jarancio[at]fund-cenit.org.ar**
 
