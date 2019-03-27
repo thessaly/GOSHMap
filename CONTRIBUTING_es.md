@@ -4,7 +4,7 @@ Gracias! :hatched_chick: :tada:
 
 Si tenés algún problema o pregunta me podés contactar a: **jarancio[at]fund-cenit.org.ar**
 
-<details><summary><b>Data model</b></summary>
+<details><summary><b>:chart_with_upwards_trend: Data model</b></summary>
 <p>
 Esta es la mínima estructura propuesta para mapear los proyectos de la comunidad GOSH. Está hecha teniendo en cuenta los ítems (Q) y propiedades (P) definidos por la comunidad de Wikidata.
 
