@@ -6,7 +6,7 @@ Esta iniciativa tiene como objetivo construir una base de datos colaborativa de 
 
 [**:earth_americas: Mapa**](http://tinyurl.com/y2ehx763)   
 
-[**:heart: Quiero colaborar**](CONTRIBUTING.md)
+[**:heart: Quiero colaborar**](CONTRIBUTING_es.md)
 
 ### ¿Cómo funciona el mapa?
 La base de datos de proyectos está disponible públicamente en [Wikidata](https://www.wikidata.org) y se puede visualizar como mapa a través del [Servicio de Query de Wikidata](https://query.wikidata.org).
@@ -84,7 +84,7 @@ Esta es la mínima estructura propuesta para mapear los proyectos de la comunida
 
 Podés contribuir añadiendo nodos, traduciendo datos, mejorando visualizaciones o cualquier otra cosa que se te ocurra. 
 
-Chequeá las [guías para contribución](CONTRIBUTING.md) para entender cómo.
+Chequeá las [guías para contribución](CONTRIBUTING_es.md) para entender cómo.
 
 ### Otros usos del mapa
 
