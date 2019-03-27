@@ -1,6 +1,6 @@
 # Mapa de Hardware Científico Abierto Global (GOSH)
 
-[:en:](README.md)
+[:uk:](README.md)
 
 Esta iniciativa tiene como objetivo construir una base de datos colaborativa de proyectos de hardware científico abierto a nivel global. Comenzó con iniciativas de Latinoamerica como parte de mi [tesis doctoral](https://github.com/thessaly/phd/) y ahora queremos ampliarlo como parte de la comunidad [GOSH - Global Open Source Hardware](https://openhardware.science). 
 
