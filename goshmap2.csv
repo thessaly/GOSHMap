@@ -9,14 +9,14 @@ http://www.wikidata.org/entity/Q62395439,FluoPi,Santiago,project,academic resear
 http://www.wikidata.org/entity/Q62395440,Laboratorio de fisica interactiva,Mendoza,university research group,academic research,http://fcen.uncuyo.edu.ar/fisica-interactiva,Point(-68.833333333 -32.883333333)
 http://www.wikidata.org/entity/Q62395443,Monitor Abierto de Calidad de Aire (MACA),Mendoza,project,community science,https://gitlab.com/nanocastro/Repo_maca,Point(-68.833333333 -32.883333333)
 http://www.wikidata.org/entity/Q62395444,KOMBUCH.ar/nl.GENOMICS,Buenos Aires,project,art,https://laola2020.github.io/,Point(-58.381944444 -34.599722222)
-N/A,VIOS,Glattbrugg Switzerland,incubator,business,www.vios.ch,N/A
+N/A,VIOS,Glattbrugg Switzerland,incubator,social innovation,www.vios.ch,N/A
 N/A,Pelling Lab,Ottawa Canada,university research group,academic research,https://www.pellinglab.net/,N/A
 N/A,Lifepatch,Yogyakarta Indonesia,community,community science,http://lifepatch.org/,N/A
 N/A,Public Lab,Providence US,community,community science,https://publiclab.org,N/A
 N/A,Citizens without borders,London UK,community,community science,https://citizenswithoutbordersdotcom.wordpress.com/,N/A
 N/A,Experiment,New York US,crowdfunding platform,academic research,Experiment.com,N/A
 N/A,Greening Bourj Al Shamali,Lebanon,project,community science,http://bourjalshamali.org/,N/A
-N/A,Shenzhen Open Innovation Lab,Shenzhen China,Fab Lab,business,https://www.szoil.org/,N/A
+N/A,Shenzhen Open Innovation Lab,Shenzhen China,Fab Lab,social innovation,https://www.szoil.org/,N/A
 N/A,Citizen Cyberlab,Geneva Switzerland,university research group,academic research,http://citizencyberlab.org/about.html,N/A
 N/A,Backyard Brains,Ann Arbor MI USA,company,education,https://backyardbrains.com/,N/A
 N/A,BioIRC,Kragujevac  Serbia,university research group,academic research,http://www.bioirc.ac.rs,N/A
@@ -29,8 +29,8 @@ N/A,CosmicPi,Geneva Switzerland,project,academic research,http://cosmicpi.org,N/
 N/A,London Biohackspace,London UK,Community Lab,community science,https://biohackspace.org/,N/A
 N/A,Hackuarium,Lausanne Switzerland,Community Lab,community science,http://wiki.hackuarium.ch,N/A
 N/A,Hackteria,Zurich,community,community science,http://www.hackteria.org/,N/A
-N/A,Open Factory,Frauenfeld Switzerland,company,business,www.openfactory.ch,N/A
-N/A,OpenQCM,Pompeii Italy,company,business,https://openqcm.com/,N/A
+N/A,Open Factory,Frauenfeld Switzerland,company,social innovation,www.openfactory.ch,N/A
+N/A,OpenQCM,Pompeii Italy,company,academic research,https://openqcm.com/,N/A
 N/A,Civic Laboratory for Environmental Action Research (CLEAR),Newfoundland Canada,university research group,academic research,https://civiclaboratory.nl/,N/A
 N/A,Safecast,Japan,community,community science,https://safecast.org,N/A
 N/A,Karkhana,Kathmandu,company,education,karkhana.asia,N/A
@@ -43,7 +43,7 @@ N/A,Pixelache,Helsinki Finland,community,community science,https://pixelache.ac,
 http://www.wikidata.org/entity/Q62395436,SensAR,Buenos Aires,project,academic research,http://www.sensar.com.ar/,Point(-58.381944444 -34.599722222)
 N/A,Pineapple Labs,Heidelberg Germany,project,art,http://www.pineapplelaboratories.org/,N/A
 N/A,Cytera cell works,London UK,company,academic research,https://cytera.bio/,N/A
-N/A,Blackbeard Biologic,Chesapeake Bay USA,company,business,http://www.blackbeardbiologic.com/,N/A
+N/A,Blackbeard Biologic,Chesapeake Bay USA,company,community science,http://www.blackbeardbiologic.com/,N/A
 N/A,Bento,UK,company,education,www.bento.bio,N/A
 N/A,FabLab Universidad de Chile,Santiago,Lab,academic research,http://www.fablab.uchile.cl/,N/A
 N/A,Green Start,New Hampshire USA,non profit,education,http://www.greenstartnh.org/,N/A
@@ -53,8 +53,8 @@ http://www.wikidata.org/entity/Q62395438,Rede InfoAmazonia,Amazonas,project,comm
 N/A,OurSci,Ann Arbor MI USA,company,community science,Our-Sci.net,N/A
 http://www.wikidata.org/entity/Q15898569,Parque Explora,Medellín,science museum,education,http://www.parqueexplora.org,Point(-75.574827777 6.244747222)
 N/A,OpenBCI,Brooklyn NY,community,community science, www.openbci.com,N/A
-N/A,Kumasi Hive,Kumasi Ghana,Fab Lab,business,www.kumasihive.com,N/A
-N/A,Pulse Sensor,Brooklyn NY,company,business,https://pulsesensor.com/,N/A
+N/A,Kumasi Hive,Kumasi Ghana,Fab Lab,social innovation,www.kumasihive.com,N/A
+N/A,Pulse Sensor,Brooklyn NY,company,social innovation,https://pulsesensor.com/,N/A
 N/A,Centro de Investigaciones para la Transformación (CENIT),Buenos Aires Argentina,university research group,academic research,http://www.fund-cenit.org.ar/,N/A
 N/A,Kitspace,UK,documentation platform,community science,https://kitspace.org/,N/A
 N/A,Kathmandu Living Labs ,Kathmandu Nepal,company,community science,http://www.kathmandulivinglabs.org/,N/A
@@ -76,7 +76,7 @@ N/A,FabLab Amazonas,Peru,Fab Lab,community science,amazon.fablat.org,N/A
 N/A,Young Makers & ChangeMakers,Hong Kong,community,education,https://www.facebook.com/pg/YoungMakers.ChangeMakers,N/A
 N/A,Alquimetricos,Argentina,project,education,http://alquimetricos.com/,N/A
 N/A,Twende Innovation Centre,Arusha Tanzania ,Lab,education,http://www.twende-tanzania.org,N/A
-N/A,LakeHub,Kenya,company,business,https://lakehub.co.ke/,N/A
+N/A,LakeHub,Kenya,company,social innovation,https://lakehub.co.ke/,N/A
 N/A,Farm Hack,USA,community,community science,https://farmhack.org,N/A
 N/A,Synthetic Biology Club Brazil (Synbio Brasil),Sao Paulo Brazil,community,academic research,http://www.synbiobrasil.org/,N/A
 N/A,SDG Solution Space – Geneva-Tsinghua Initiative,Geneva Switzerland,Lab,academic research,https://sdgsolutionspace.org/,N/A
@@ -86,16 +86,16 @@ N/A,Open FIESTA Tsinghua University,Shenzhen China,Lab,education,www.fiesta.tsin
 N/A,Open Science School,Paris France,non profit,education,http://openscienceschool.org/,N/A
 N/A,SeeSD,Senegal,non profit,education,https://www.seesd.org/,N/A
 N/A,WoeLab,Togo,Fab Lab,community science,https://www.woelabo.com/,N/A
-N/A,IRNAS,Slovenia,company,business,https://www.irnas.eu/,N/A
+N/A,IRNAS,Slovenia,company,social innovation,https://www.irnas.eu/,N/A
 N/A,disaster.radio,Oakland CA,project,community science,https://disaster.radio/,N/A
-N/A,Breathing games,Slovenia,company,business,http://breathing-games.com/,N/A
+N/A,Breathing games,Slovenia,company,community science,http://breathing-games.com/,N/A
 N/A,LabLab UG ,Leipzig Germany,Lab,academic research,http://lablab.eu/,N/A
 N/A,Mboalab,Cameroon,Lab,community science,http://www.mboalab.africa,N/A
 N/A,Vilsquare,Nigeria,Lab,community science,https://vilsquare.org,N/A
 N/A,Pechblenda lab,Barcelona,project,community science,https://network23.org/pechblendalab/,N/A
 N/A,Mushroomcloud Maker Space ,Pudong Shanghai,Lab,community science,http://www.mushroomcloud.cc/,N/A
 N/A,Conservify,Los Angeles CA,company,community science,http://conservify.org/,N/A
-N/A,OSBeehives,Denver USA,company,business,https://www.osbeehives.com/,N/A
+N/A,OSBeehives,Denver USA,company,community science,https://www.osbeehives.com/,N/A
 N/A,National Institute of Technology  Warangal,Warangal India,research institute,academic research,www.nitw.ac.in,N/A
 N/A,KnowFlow,China,project,community science,https://publiclab.org/wiki/knowflow,N/A
 N/A,kabakoo,Bamako Mali,Lab,community science,https://www.kabakoo.africa/,N/A
