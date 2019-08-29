@@ -1,12 +1,12 @@
 ,itemLabel,lugarLabel,tipoLabel,areaLabel,url,location,lat,long
 0,Vuela,Melipilla,project,community science,https://osf.io/fscn4/,"Melipilla, Provincia de Melipilla, Región Metropolitana de Santiago, Chile",-33.6855115,-71.2145686
-1,Laboratorio de Fabricacion Digital UTN-FRM,Mendoza,university research group,academic research,http://frm.utn.edu.ar/labfd,"Ciudad de Mendoza, Sección 2ª Barrio Cívico, Departamento Capital, Mza., Argentina",-32.8897294,-68.8442956
-2,Biomakers Lab,Lima,community,community science,https://biomakerslab.wixsite.com,"Lima, Perú",-12.0621065,-77.0365256
+1,Laboratorio de Fabricacion Digital UTN-FRM,Mendoza,Lab,social innovation,http://frm.utn.edu.ar/labfd,"Ciudad de Mendoza, Sección 2ª Barrio Cívico, Departamento Capital, Mza., Argentina",-32.8897294,-68.8442956
+2,Biomakers Lab,Lima,Lab,social innovation,https://biomakerslab.wixsite.com,"Lima, Perú",-12.0621065,-77.0365256
 3,Centro de Tecnologia Acadêmica,Porto Alegre,university research group,academic research,http://cta.if.ufrgs.br,"Porto Alegre, Região Geográfica Imediata de Porto Alegre, Região Metropolitana de Porto Alegre, Região Geográfica Intermediária de Porto Alegre, RS, Região Sul, Brasil",-30.0324999,-51.2303767
 4,EITCHA - Escola Itinerante de Tecnologia Cidadã Hacker,Porto Alegre,project,education,http://eitcha.org/,"Porto Alegre, Região Geográfica Imediata de Porto Alegre, Região Metropolitana de Porto Alegre, Região Geográfica Intermediária de Porto Alegre, RS, Região Sul, Brasil",-30.0324999,-51.2303767
 5,OpenBio,Santiago,community,academic research,http://openbio.cl/,"Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",-33.4377968,-70.6504451
 6,FluoPi,Santiago,project,academic research,https://osf.io/dy6p2/wiki/home/,"Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile",-33.4377968,-70.6504451
-7,Laboratorio de fisica interactiva,Mendoza,university research group,academic research,http://fcen.uncuyo.edu.ar/fisica-interactiva,"Ciudad de Mendoza, Sección 2ª Barrio Cívico, Departamento Capital, Mza., Argentina",-32.8897294,-68.8442956
+7,Laboratorio de fisica interactiva,Mendoza,project,education,http://fcen.uncuyo.edu.ar/fisica-interactiva,"Ciudad de Mendoza, Sección 2ª Barrio Cívico, Departamento Capital, Mza., Argentina",-32.8897294,-68.8442956
 8,Monitor Abierto de Calidad de Aire (MACA),Mendoza,project,community science,https://gitlab.com/nanocastro/Repo_maca,"Ciudad de Mendoza, Sección 2ª Barrio Cívico, Departamento Capital, Mza., Argentina",-32.8897294,-68.8442956
 9,KOMBUCH.ar/nl.GENOMICS,Buenos Aires,project,art,https://laola2020.github.io/,"CABA, Argentina",-34.6075616,-58.437076
 10,VIOS,Glattbrugg Switzerland,incubator,social innovation,www.vios.ch,"Glattbrugg, Bezirk Bülach, Zürich, 8152, Schweiz/Suisse/Svizzera/Svizra",47.4326312,8.5647892
@@ -16,18 +16,18 @@
 14,Citizens without borders,London UK,community,community science,https://citizenswithoutbordersdotcom.wordpress.com/,"London, Greater London, England, UK",51.4893335,-0.144055084527687
 15,Experiment,New York US,crowdfunding platform,academic research,Experiment.com,"NYC, New York, United States of America",40.7127281,-74.0060152
 16,Greening Bourj Al Shamali,Lebanon,project,community science,http://bourjalshamali.org/,لبنان,33.8750629,35.843409
-17,Shenzhen Open Innovation Lab,Shenzhen China,Fab Lab,social innovation,https://www.szoil.org/,"深圳市, 广东省, China 中国",22.5445697,114.0545346
+17,Shenzhen Open Innovation Lab,Shenzhen China,Lab,social innovation,https://www.szoil.org/,"深圳市, 广东省, China 中国",22.5445697,114.0545346
 18,Citizen Cyberlab,Geneva Switzerland,university research group,academic research,http://citizencyberlab.org/about.html,"Genève, Schweiz/Suisse/Svizzera/Svizra",46.2017559,6.1466014
 19,Backyard Brains,Ann Arbor MI USA,company,education,https://backyardbrains.com/,"Ann Arbor, Washtenaw County, Michigan, USA",42.2681569,-83.7312291
 20,BioIRC,Kragujevac  Serbia,university research group,academic research,http://www.bioirc.ac.rs,"Крагујевац, Град Крагујевац, Шумадијски управни округ, Централна Србија, 74600, Србија (Serbia)",44.010103,20.9171723
 21,CERN Open Hardware ,Geneva Switzerland,research institute,academic research,https://kt.cern/open,"Genève, Schweiz/Suisse/Svizzera/Svizra",46.2017559,6.1466014
 22,OpenPlant,Cambridge UK,university research group,academic research,https://www.openplant.org/,"Cambridge, Cambridgeshire, East of England, England, UK",52.2034823,0.1235817
-23,Biomaker space,Cambridge UK,funding programme,academic research,https://www.biomaker.org/,"Cambridge, Cambridgeshire, East of England, England, UK",52.2034823,0.1235817
+23,Biomaker space,Cambridge UK,project,academic research,https://www.biomaker.org/,"Cambridge, Cambridgeshire, East of England, England, UK",52.2034823,0.1235817
 24,CRI,Paris France,research institute,academic research,https://cri-paris.org/,"Paris, Île-de-France, France métropolitaine, France",48.8566101,2.3514992
 25,Freifunk,Germany,community,community science,https://freifunk.net,Deutschland,51.0834196,10.4234469
 26,CosmicPi,Geneva Switzerland,project,academic research,http://cosmicpi.org,"Genève, Schweiz/Suisse/Svizzera/Svizra",46.2017559,6.1466014
-27,London Biohackspace,London UK,Community Lab,community science,https://biohackspace.org/,"London, Greater London, England, UK",51.4893335,-0.144055084527687
-28,Hackuarium,Lausanne Switzerland,Community Lab,community science,http://wiki.hackuarium.ch,"Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra",46.5218269,6.6327025
+27,London Biohackspace,London UK,Lab,community science,https://biohackspace.org/,"London, Greater London, England, UK",51.4893335,-0.144055084527687
+28,Hackuarium,Lausanne Switzerland,Lab,community science,http://wiki.hackuarium.ch,"Lausanne, District de Lausanne, Vaud, Schweiz/Suisse/Svizzera/Svizra",46.5218269,6.6327025
 29,Hackteria,Zurich,community,community science,http://www.hackteria.org/,"Zürich, Bezirk Zürich, Zürich, Schweiz/Suisse/Svizzera/Svizra",47.3723941,8.5423328
 30,Open Factory,Frauenfeld Switzerland,company,social innovation,www.openfactory.ch,"Frauenfeld, Bezirk Frauenfeld, Thurgau, Schweiz/Suisse/Svizzera/Svizra",47.5562359,8.8964139
 31,OpenQCM,Pompeii Italy,company,academic research,https://openqcm.com/,"Scavi archeologici di Pompei, Via dell'Abbondanza, Pompei, NA, CAM, 80045, Italia",40.7509216,14.4895620911152
@@ -35,12 +35,12 @@
 33,Safecast,Japan,community,community science,https://safecast.org,日本,36.5748441,139.2394179
 34,Karkhana,Kathmandu,company,education,karkhana.asia,"Kathmandu, काठमाडौं, बागमती अञ्चल, मध्यमाञ्चल विकास क्षेत्र, 44600, नेपाल",27.708796,85.320244
 35,KitHub,Los Angeles CA USA,company,education,https://kithub.cc/,"LA, Los Angeles County, California, United States of America",34.0536909,-118.2427666
-36,Docubricks,Cambridge UK,documentation platform,academic research,http://docubricks.com/,"Cambridge, Cambridgeshire, East of England, England, UK",52.2034823,0.1235817
+36,Docubricks,Cambridge UK,repository,academic research,http://docubricks.com/,"Cambridge, Cambridgeshire, East of England, England, UK",52.2034823,0.1235817
 37,TreND in Africa,Africa,non profit,academic research,http://trendinafrica.org,Afriko,11.5024338,17.7578122
 38,GaudiLabs,Lucern Switzerland,Lab,community science,http://www.gaudi.ch/GaudiLabs/?page_id=2,"Luzern, Schweiz/Suisse/Svizzera/Svizra",47.0505452,8.3054682
 39,OpenIOLabs,Cambridge UK,company,academic research,https://twitter.com/openiolabs,"Cambridge, Cambridgeshire, East of England, England, UK",52.2034823,0.1235817
 40,Pixelache,Helsinki Finland,community,community science,https://pixelache.ac,"Helsinki, Helsingin seutukunta, Uusimaa, Etelä-Suomi, Manner-Suomi, Suomi",60.1674086,24.9425683
-41,SensAR,Buenos Aires,project,academic research,http://www.sensar.com.ar/,"CABA, Argentina",-34.6075616,-58.437076
+41,Laboratorio de Fisiología de Proteínas,Buenos Aires,university research group,academic research,http://www.iquibicen.fcen.uba.ar/grupodeinvestigacin/laboratorio-de-fisiologia-proteica/,"Ciudad Universitaria, Buenos Aires, Argentina",-34.54193,-58.445802
 42,Pineapple Labs,Heidelberg Germany,project,art,http://www.pineapplelaboratories.org/,"Heidelberg, Regierungsbezirk Karlsruhe, Baden-Württemberg, 69120, Deutschland",49.4093582,8.694724
 43,Cytera cell works,London UK,company,academic research,https://cytera.bio/,"London, Greater London, England, UK",51.4893335,-0.144055084527687
 44,Blackbeard Biologic,Chesapeake Bay USA,company,community science,http://www.blackbeardbiologic.com/,"Chesapeake Bay, Dorchester County, Maryland, USA",38.5167886,-76.3830046
@@ -53,45 +53,45 @@
 51,OurSci,Ann Arbor MI USA,company,community science,Our-Sci.net,"Ann Arbor, Washtenaw County, Michigan, USA",42.2681569,-83.7312291
 52,Parque Explora,Medellín,science museum,education,http://www.parqueexplora.org,"Medellín, Zona Urbana Medellín, Medellín, Valle de Aburrá, Antioquia, 0500, Colombia",6.2443382,-75.573553
 53,OpenBCI,Brooklyn NY,community,community science, www.openbci.com,"BK, Kings County, NYC, New York, USA",40.6501038,-73.9495823
-54,Kumasi Hive,Kumasi Ghana,Fab Lab,social innovation,www.kumasihive.com,"Kumasi, Ashanti Region, Ghana",6.698081,-1.6230404
+54,Kumasi Hive,Kumasi Ghana,Lab,social innovation,www.kumasihive.com,"Kumasi, Ashanti Region, Ghana",6.698081,-1.6230404
 55,Pulse Sensor,Brooklyn NY,company,social innovation,https://pulsesensor.com/,"BK, Kings County, NYC, New York, USA",40.6501038,-73.9495823
 56,Centro de Investigaciones para la Transformación (CENIT),Buenos Aires Argentina,university research group,academic research,http://www.fund-cenit.org.ar/,"CABA, Argentina",-34.6075616,-58.437076
-57,Kitspace,UK,documentation platform,community science,https://kitspace.org/,UK,54.7023545,-3.2765753
+57,Kitspace,UK,repository,community science,https://kitspace.org/,UK,54.7023545,-3.2765753
 58,Kathmandu Living Labs ,Kathmandu Nepal,company,community science,http://www.kathmandulivinglabs.org/,"Kathmandu, काठमाडौं, बागमती अञ्चल, मध्यमाञ्चल विकास क्षेत्र, 44600, नेपाल",27.708796,85.320244
 59,Interspecifics,Mexico City,project,art,http://interspecifics.cc,"Ciudad de México, Cuauhtémoc, CDMX, 06060, México",19.4326009,-99.1333416
 60,FOSS ASIA,Vietnam,community,community science,https://fossasia.org/about/,Việt Nam,13.2904027,108.4265113
 61,Sci-bots,Toronto Canada,company,academic research,https://sci-bots.com/,"Toronto, Golden Horseshoe, Ontario, M6K 1X9, Canada",43.653963,-79.387207
 62,Baltimore Underground Science Space,Baltimore MD USA,Lab,community science,http://www.bugssonline.org/,"Baltimore, Maryland, USA",39.2847494,-76.6204746396999
 63,The Tech Academy,Bangladesh,company,education,http://thetechacademy.net/,"বাংলাদেশ, Bhabanipur, ময়মনসিংহ জেলা, ময়মনসিংহ বিভাগ, বাংলাদেশ",24.4768598,90.2932299
-64,Greenovation Hub,Beijing China ,non profit,academic research,http://www.ghub.org/,"北京市, China 中国",40.190632,116.412144
+64,Greenovation Hub,Beijing China ,non profit,social innovation,http://www.ghub.org/,"北京市, China 中国",40.190632,116.412144
 65,La Jaquer Escool,Medellín,project,education,http://platohedro.org/la-jaquer-escool/,"Medellín, Zona Urbana Medellín, Medellín, Valle de Aburrá, Antioquia, 0500, Colombia",6.2443382,-75.573553
 66,APSOHA: Open Science in Haiti & Francophone Africa Universities,Quebec Canada,project,academic research,https://www.projetsoha.org/,"Québec, Canada",52.4760892,-71.8258668
 67,Center for Effective Global Action (CEGA) / Berkeley University of California,Berkeley USA,university research group,academic research,https://cega.berkeley.edu,"Berkeley, Alameda County, California, USA",37.8708393,-122.2728639
 68,Waag Society,Amsterdam,non profit,community science,https://waag.org,"Amsterdam, Noord-Holland, Nederland",52.3745403,4.89797550561798
 69,Conservation X Labs,Washington DC.,company,community science,https://conservationxlabs.com,"Washington, D.C., USA",38.8950092,-77.0365625
 70,Prometheus Science,UK,company,academic research,https://prometheus-science.com/,UK,54.7023545,-3.2765753
-71, Open Neuroscience,UK,community,academic research,https://openneuro.org/,UK,54.7023545,-3.2765753
+71,Open Neuroscience,UK,community,academic research,https://openneuro.org/,UK,54.7023545,-3.2765753
 72,Femhack,Montreal Canada,Lab,community science,https://wiki.p2pfoundation.net/FemHack,"Montréal, Agglomération de Montréal, Montréal (06), Québec, Canada",45.4972159,-73.6103642
-73,FabLab Amazonas,Peru,Fab Lab,community science,amazon.fablat.org,Perú,-6.8699697,-75.0458515
+73,FabLab Amazonas,Peru,Lab,community science,amazon.fablat.org,Perú,-6.8699697,-75.0458515
 74,Young Makers & ChangeMakers,Hong Kong,community,education,https://www.facebook.com/pg/YoungMakers.ChangeMakers,"香港 Hong Kong, 中西區 Central and Western District, HK, PACIFIC PLACE, 中国",22.2793278,114.1628131
 75,Alquimetricos,Argentina,project,education,http://alquimetricos.com/,Argentina,-34.9964963,-64.9672817
-76,Twende Innovation Centre,Arusha Tanzania ,Lab,education,http://www.twende-tanzania.org,"Arusha, Northern Zone, 23210, Tanzania",-3.427534,36.7085848184899
+76,Twende Innovation Centre,Arusha Tanzania ,Lab,social innovation,http://www.twende-tanzania.org,"Arusha, Northern Zone, 23210, Tanzania",-3.427534,36.7085848184899
 77,LakeHub,Kenya,company,social innovation,https://lakehub.co.ke/,Kenya,1.4419683,38.4313975
 78,Farm Hack,USA,community,community science,https://farmhack.org,USA,39.7837304,-100.4458825
 79,Synthetic Biology Club Brazil (Synbio Brasil),Sao Paulo Brazil,community,academic research,http://www.synbiobrasil.org/,"São Paulo, Região Imediata de São Paulo, RMSP, Região Intermediária de São Paulo, SP, Região Sudeste, Brasil",-23.5506507,-46.6333824
-80,SDG Solution Space – Geneva-Tsinghua Initiative,Geneva Switzerland,Lab,academic research,https://sdgsolutionspace.org/,"Genève, Schweiz/Suisse/Svizzera/Svizra",46.2017559,6.1466014
+80,SDG Solution Space – Geneva-Tsinghua Initiative,Geneva Switzerland,Lab,community science,https://sdgsolutionspace.org/,"Genève, Schweiz/Suisse/Svizzera/Svizra",46.2017559,6.1466014
 81,UbaLab,Ubatuba Brazil,Lab,community science,http://ubalab.org,"Ubatuba, Região Imediata de Caraguatatuba-Ubatuba-São Sebastião, RMVPLN;RMVale, Região Intermediária de São José dos Campos, SP, Região Sudeste, Brasil",-23.433162,-45.083415
 82,Science art group 18 apples,Moscow Russia,project,art,https://cargocollective.com/18apples/,"Москва, Центральный административный округ, Москва, ЦФО, Россия",55.7504461,37.6174943
 83,Open FIESTA Tsinghua University,Shenzhen China,Lab,education,www.fiesta.tsinghua.edu.cn,"深圳市, 广东省, China 中国",22.5445697,114.0545346
 84,Open Science School,Paris France,non profit,education,http://openscienceschool.org/,"Paris, Île-de-France, France métropolitaine, France",48.8566101,2.3514992
 85,SeeSD,Senegal,non profit,education,https://www.seesd.org/,Sénégal,14.4750607,-14.4529612
-86,WoeLab,Togo,Fab Lab,community science,https://www.woelabo.com/,Togo,8.7800265,1.0199765
+86,WoeLab,Togo,Lab,community science,https://www.woelabo.com/,Togo,8.7800265,1.0199765
 87,IRNAS,Slovenia,company,social innovation,https://www.irnas.eu/,Slovenija,45.8133113,14.4808369
 88,disaster.radio,Oakland CA,project,community science,https://disaster.radio/,"Oakland, Alameda County, California, USA",37.8044557,-122.2713563
 89,Breathing games,Slovenia,company,community science,http://breathing-games.com/,Slovenija,45.8133113,14.4808369
 90,LabLab UG ,Leipzig Germany,Lab,academic research,http://lablab.eu/,"Leipzig, Sachsen, 04109, Deutschland",51.3406321,12.3747329
 91,Mboalab,Cameroon,Lab,community science,http://www.mboalab.africa,Cameroun,4.6125522,13.1535811
-92,Vilsquare,Nigeria,Lab,community science,https://vilsquare.org,Nigeria,9.6000359,7.9999721
+92,Vilsquare,Nigeria,Lab,social innovation,https://vilsquare.org,Nigeria,9.6000359,7.9999721
 93,Pechblenda lab,Barcelona,project,community science,https://network23.org/pechblendalab/,"Barcelona, BCN, CAT, España",41.3828939,2.1774322
 94,Mushroomcloud Maker Space ,Pudong Shanghai,Lab,community science,http://www.mushroomcloud.cc/,"浦东新区, 上海市, 200122, 中国",31.2217826,121.5387401
 95,Conservify,Los Angeles CA,company,community science,http://conservify.org/,"LA, Los Angeles County, California, United States of America",34.0536909,-118.2427666
@@ -104,7 +104,8 @@
 102,BioHacking Colombia,Medellín,community,education,https://www.facebook.com/BiohackingColombia/,"Medellín, Zona Urbana Medellín, Medellín, Valle de Aburrá, Antioquia, 0500, Colombia",6.2443382,-75.573553
 103,TECSCI: Technology for Science,San Martin Buenos Aires Argentina,company,academic research,http://www.unsam.edu.ar/institutos/ins/,"San Martín, Buenos Aires, Argentina",-34.575484,-58.564204
 104,TecnoX-UNQ,Quilmes Buenos Aires Argentina,community,academic research,https://www.facebook.com/groups/tecnoxunq/,"Bernal, Buenos Aires, Argentina",-34.704376,-58.27375
-105,Cientopolis,La Plata Buenos Aires Argentina,project,community science,http://www.cientopolis.org/,"La Plata, Buenos Aires, Argentina",-34.920468,-57.953591
-106,Villa Inflamable,Inflamable Buenos Aires Argentina,project,community science,https://www.academia.edu/27468825/The_case_of_Villa_Inflamable,"Dock sud, buenos aires, argentina",-34.648294,-58.345777
+105,Cientopolis,La Plata Buenos Aires Argentina,community,community science,http://www.cientopolis.org/,"La Plata, Buenos Aires, Argentina",-34.920468,-57.953591
+106,Villa Inflamable,Inflamable Buenos Aires Argentina,community,community science,https://www.academia.edu/27468825/The_case_of_Villa_Inflamable,"Dock sud, buenos aires, argentina",-34.648294,-58.345777
 107,Centro de Investigaciones del Medio Ambiente-UNLP,La Plata Buenos Aires Argentina,Lab,academic research,https://linktr.ee/solrepresa,"La Plata, Buenos Aires, Argentina",-34.920468,-57.953591
 108,Papatronica,Balcarce Argentina,project,social innovation,https://github.com/lucianovelazquez/papatronica,"Balcarce, buenos aires, argentina",-37.843346,-58.250438
+109,IFIBYNE UBA-CONICET,Buenos Aires,university research group,academic research,http://www.ifibyne.fcen.uba.ar/new/en/institucional-y-autoridades/,"Ciudad Universitaria, Buenos Aires, Argentina",-34.54193,-58.445802
