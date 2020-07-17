@@ -5,6 +5,16 @@ Thank you! :hatched_chick: :tada:
 
 If you have any problems or questions you can contact me: **jarancio[at]unsam.edu.ar**
 
+<details><summary><b>:wrench: Adding a project to the map</b></summary>
+<p>
+ 
+If you know of an open science hardware project (or maybe it's your own project!) you can easily add it to Wikidata [using this form](https://cradle.toolforge.org/#/subject/open_science_hardware_project).
+
+If you have doubts about what to put in the form, check the "Data model" section below.
+
+<p>
+</details>
+
 <details><summary><b>:chart_with_upwards_trend: Data model</b></summary>
 <p>
 This is the minimum proposed structure that allows us to map projects that are part of GOSH community. It's made taking into account the available items (Q) and properties (P) defined by the Wikidata community. 
@@ -36,21 +46,8 @@ This is the minimum proposed structure that allows us to map projects that are p
 
 </details>
 
-<details><summary><b>:wrench: Adding a project to the map</b></summary>
-<p>
-If you know of an open science hardware project (or maybe it's your own project!) you can easily add it to Wikidata [using this form](https://cradle.toolforge.org/#/subject/open_science_hardware_project).
-
-<p>
-</details>
-
 <details><summary><b>:pencil: Translating data</b></summary>
 <p>
 Coming soon.
-<p>
-</details>
-
-<details><summary><b>:sparkler: Better visualizations</b></summary>
-<p>
-Are you aware of any tools on top of wikidata that can make the map look better? Or visualizations that can be made using the data we're mapping? Contact me!
 <p>
 </details>
