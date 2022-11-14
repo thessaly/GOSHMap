@@ -2,7 +2,7 @@ This initiative aims to build a collaborative database of open science hardware 
 
 > [**The map**](http://thessaly.pythonanywhere.com)   
 
-> [**Send your contribution**](https://github.com/thessaly/GOSHMap/blob/master/CONTRIBUTING.md)
+> [**Send your contribution**](https://github.com/thessaly/GOSHMap/blob/master/contributing/index.md)
 
 ***
 <br>
