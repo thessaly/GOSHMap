@@ -2,9 +2,9 @@
 
 This initiative aims to build a collaborative database of open science hardware projects around the world. It started with projects from Latin America as part of my [PhD](https://github.com/thessaly/phd/) and now we want to make it global as part of the [Global Open Source Hardware](https://openhardware.science) community. 
 
-[**:earth_americas: Map**](http://thessaly.pythonanywhere.com)   
+[**The map**](http://thessaly.pythonanywhere.com)   
 
-[**:heart: I want to contribute**](CONTRIBUTING.md)
+[**Send your contribution**](CONTRIBUTING.md)
 
 
 ### How does the map work?
