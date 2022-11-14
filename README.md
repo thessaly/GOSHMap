@@ -1,13 +1,11 @@
-# Global Open Science Hardware Map
-
 This initiative aims to build a collaborative database of open science hardware projects around the world. It started with projects from Latin America as part of my [PhD](https://github.com/thessaly/phd/) and now we want to make it global as part of the [Global Open Source Hardware](https://openhardware.science) community. 
 
->> [**The map**](http://thessaly.pythonanywhere.com)   
+> [**The map**](http://thessaly.pythonanywhere.com)   
 
->> [**Send your contribution**](CONTRIBUTING.md)
+> [**Send your contribution**](CONTRIBUTING.md)
 
 
-### How does the map work?
+## How does the map work?
 
 #### Collaborative input via Wikidata
 
@@ -39,4 +37,4 @@ You can contribute by adding nodes, translating data, enhancing visualizations o
 Check the [contribution guidelines](CONTRIBUTING.md) to see how.
 
 
->> Problems, questions, suggestions? **jarancio[at]unsam.edu.ar**
+> Problems, questions, suggestions? **jarancio[at]unsam.edu.ar**
